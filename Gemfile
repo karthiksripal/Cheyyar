@@ -1,1 +1,1 @@
-gem 'jekyll-theme-hamilton'
+gem 'jekyll-remote-theme'
