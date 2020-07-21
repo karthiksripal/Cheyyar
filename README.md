@@ -1,2 +1,2 @@
-# cheyyar.com
+# Cheyyar.com
 CMS for cheyyar.com
