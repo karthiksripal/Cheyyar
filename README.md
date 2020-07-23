@@ -1,7 +1,3 @@
-<a href="[https://en.wikipedia.org/](https://en.wikipedia.org/wiki/Vedapureeswarar_Temple,_Cheyyar#/media/File:Cheyyar_temple.JPG)">
-    <img src="[https://en.wikipedia.org/wiki/Vedapureeswarar_Temple,_Cheyyar#/media/File:Cheyyar_temple.JPG](https://en.wikipedia.org/wiki/Vedapureeswarar_Temple,_Cheyyar#/media/File:Cheyyar_temple.JPG)" alt="Cheyyar Logo" title="Aimeos" align="right" height="60" />
-</a>
-
 Cheyyar 
 ======================
 
@@ -14,10 +10,19 @@ Cheyyar Web Page Description Goes here!
 - [History](#History)
     - [History1](#History1)
 - [Yellow Pages](#Yellow_Pages)
+	- [Auto Services ](#Auto_Services )
+	- [Home Services ](#Home_Services )
+	- [ Legal Services ](#Legal_Services )
+	- [Health care and Medical Services ](#Health_care_and_Medical_Services )
+	- [ Personal Care](#Personal_Care)
+	- [Restaurants and Food Services](#Restaurants_and_Food_Services)
+	-  [Government Services](#Government_Services )
+	- [General Services](#General_services)
 - [Cheyyar Listings](#Cheyyar_Listings)
+	- [Community](#Community)
+	- 
 - [Contact us](#Contact_us])
 - [License](#license)
-- [Government Services](#Government_Services)
 - [External Links](#links)
 
 ## History
@@ -45,21 +50,21 @@ Good places for breakfast, Cheap food, good lunch, evening snack, and dinner and
 ###   Government Services 
 Government offices locations, contacts, Politicians, Brokers details goes here 
 
+###   General Services 
+Everything else - Catch all other services details 
+Service job listing like automotive services, beauty, Mobile, Internet, Creative, legal, labor, plumbing related details goes here 
 
 ## Cheyyar Listings
 ###  Community
 Everything about the Community activities, festivals, Events, groups, local news, Volunteers details goes here 
 
-###  Services
-Service job listing like automotive services, beauty, Mobile, Internet, Creative, legal, labor, plumbing related details goes here 
- 
 ###  Jobs
 Hiring or jobs needs of the business goes here with the categories like accounting, administrative, farming, Art, food
 
 ### Housing
 Rentals, House, real estate for commercial and residential, Hotels/Lodges details goes here 
 
-## License
+## Content License
 
 The content here is licensed under the terms of the GPL Open Source license and is available for free.
 
