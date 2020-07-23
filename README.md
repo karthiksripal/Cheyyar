@@ -83,3 +83,5 @@ The content here is licensed under the terms of the GPL Open Source license and 
 * Social 
 	* [Facebook](https://facebook.com)
 	*  [twitter](https://twitter.com)
+* Wikipedia link 
+* Google news for Cheyyar 
