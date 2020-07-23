@@ -1,4 +1,4 @@
-<h1>
+<head>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5SZXWT8C9Y"></script>
@@ -10,7 +10,7 @@
   gtag('config', 'G-5SZXWT8C9Y');
 </script>
 
-</h1>
+</head>
 Cheyyar 
 ======================
 
