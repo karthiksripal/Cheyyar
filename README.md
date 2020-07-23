@@ -1,16 +1,3 @@
-<head>
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-5SZXWT8C9Y"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-5SZXWT8C9Y');
-</script>
-
-</head>
 
 Cheyyar 
 ======================
@@ -67,36 +54,33 @@ Schools, Colleges, Tuitions, extra curricular classes, libraries - everything ab
 | School    	| St Joseph English Medium School 	| 3 to 14   	| +91 123456789   	| RCM church  	| Huge playground       	| Possibly Oldest School in cheyyar<br>Principle name is <br>Awards <br>Recognitions  	|
 
 ###  Home Services 
-| Category          	| Name 	| Contact number  	| Address     	| Notes                                                                               	|
-|-------------------	|------	|-----------------	|-------------	|-------------------------------------------------------------------------------------	|
-| AC Repair         	|      	| +91 123456789   	| RCM church  	| Text                                                                              	|
-| Appliance repair  	|      	|                 	|             	|                                                                                     	|
-| Cleaning Services 	|      	|                 	|             	|                                                                                     	|
-| Electricians      	|      	|                 	|             	|                                                                                     	|
-| Plumbers          	|      	|                 	|             	|                                                                                     	|
+AC Repair         
+Appliance repair  
+Cleaning Services 
+Electricians      
+Plumbers          
+
 
 ###   Legal Services 
-| Category                         	| Name 	| Contact number  	| Address     	| Notes                                                                               	|
-|----------------------------------	|------	|-----------------	|-------------	|-------------------------------------------------------------------------------------	|
-| Bike and Car Insurance           	|      	| +91 123456789   	| RCM church  	| Possibly Oldest School in cheyyar<br>Principle name is <br>Awards <br>Recognitions  	|
-| Notary                           	|      	|                 	|             	|                                                                                     	|
-| Attestations                     	|      	|                 	|             	|                                                                                     	|
-| Attorney/Lawyers/Para-legals     	|      	|                 	|             	|                                                                                     	|
-| Document Formatting and Printing 	|      	|                 	|             	|                                                                                     	|
+
+Bike and Car Insurance          
+Notary                          
+Attestations                    
+Attorney/Lawyers/Para-legals    
+Document Formatting and Printing
+
 
 ###   Health care and Medical Services 
-| Category                     	| Name 	| Contact number  	| Address     	| Notes                                                                               	|
-|------------------------------	|------	|-----------------	|-------------	|-------------------------------------------------------------------------------------	|
-| General Doctor               	|      	| +91 123456789   	| RCM church  	| Possibly Oldest School in cheyyar<br>Principle name is <br>Awards <br>Recognitions  	|
-| Eye Doctor                   	|      	|                 	|             	|                                                                                     	|
-| Pharmacy                     	|      	|                 	|             	|                                                                                     	|
-| Nurse or Pharmacy Compounder 	|      	|                 	|             	|                                                                                     	|
-| Dentist                      	|      	|                 	|             	|                                                                                     	|
-| Gynacelogist                 	|      	|                 	|             	|                                                                                     	|
-| Optometrist                  	|      	|                 	|             	|                                                                                     	|
-| Podiatry                     	|      	|                 	|             	|                                                                                     	|
-| Child Care                   	|      	|                 	|             	|                                                                                     	|
- 
+General Doctor              
+Eye Doctor                  
+Pharmacy                    
+Nurse or Pharmacy Compounder
+Dentist                     
+Gynacelogist                
+Optometrist                 
+Podiatry                    
+Child Care                  
+
 ###   Personal Care
 Mens, Womens, Children beauty salon, Hair Stylists details goes here 
 ###   Restaurants and Food Services 
