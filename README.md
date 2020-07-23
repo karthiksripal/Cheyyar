@@ -26,13 +26,38 @@ Cheyyar Web Page Description Goes here!
 ### History1
 
 ## Yellow Pages
+Contact Details of the business, Services for quick reference goes here 
+###  Auto Services 
+###  Home Services 
+Details of AC repair, Appliance Repair, Cleaning services, Electricians, Plumbers, 
+###   Legal Services 
+Insurance, Notary, Attestations, Lawyers, Document proofing related services Goes here 
+
+###   Health care and Medical Services 
+Doctors, Health specialists, Medicine shops, home nurses, dentists, Gynecologists, OPtometrists, Podiatrics  details goes here 
+ 
+###   Personal Care
+Mens, Womens, Children beauty salon, Hair Stylists details goes here 
+###   Restaurants and Food Services 
+Hotels, Street foods details goes here 
+Good places for breakfast, Cheap food, good lunch, evening snack, and dinner and drink details goes here 
+
+###   Government Services 
+Government offices locations, contacts, Politicians, Brokers details goes here 
+
 
 ## Cheyyar Listings
 ###  Community
-###  Services
-###  Jobs
-### Housing
+Everything about the Community activities, festivals, Events, groups, local news, Volunteers details goes here 
 
+###  Services
+Service job listing like automotive services, beauty, Mobile, Internet, Creative, legal, labor, plumbing related details goes here 
+ 
+###  Jobs
+Hiring or jobs needs of the business goes here with the categories like accounting, administrative, farming, Art, food
+
+### Housing
+Rentals, House, real estate for commercial and residential, Hotels/Lodges details goes here 
 
 ## License
 
