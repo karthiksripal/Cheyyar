@@ -1,3 +1,5 @@
+<h1>
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5SZXWT8C9Y"></script>
 <script>
@@ -8,6 +10,7 @@
   gtag('config', 'G-5SZXWT8C9Y');
 </script>
 
+</h1>
 Cheyyar 
 ======================
 
@@ -65,11 +68,12 @@ Schools, Colleges, Tuitions, extra curricular classes, libraries - everything ab
 ###  Home Services 
 | Category          	| Name 	| Contact number  	| Address     	| Notes                                                                               	|
 |-------------------	|------	|-----------------	|-------------	|-------------------------------------------------------------------------------------	|
-| AC Repair         	|      	| +91 123456789   	| RCM church  	| Possibly Oldest School in cheyyar<br>Principle name is <br>Awards <br>Recognitions  	|
+| AC Repair         	|      	| +91 123456789   	| RCM church  	| Text                                                                              	|
 | Appliance repair  	|      	|                 	|             	|                                                                                     	|
 | Cleaning Services 	|      	|                 	|             	|                                                                                     	|
 | Electricians      	|      	|                 	|             	|                                                                                     	|
 | Plumbers          	|      	|                 	|             	|                                                                                     	|
+
 ###   Legal Services 
 | Category                         	| Name 	| Contact number  	| Address     	| Notes                                                                               	|
 |----------------------------------	|------	|-----------------	|-------------	|-------------------------------------------------------------------------------------	|
