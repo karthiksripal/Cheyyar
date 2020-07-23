@@ -11,6 +11,7 @@ Cheyyar Web Page Description Goes here!
     - [History1](#History1)
 - [Yellow Pages](#Yellow_Pages)
 	- [Auto Services ](#Auto_Services )
+	- [Education Services](#Education_Services )
 	- [Home Services ](#Home_Services )
 	- [ Legal Services ](#Legal_Services )
 	- [Health care and Medical Services ](#Health_care_and_Medical_Services )
@@ -20,7 +21,8 @@ Cheyyar Web Page Description Goes here!
 	- [General Services](#General_services)
 - [Cheyyar Listings](#Cheyyar_Listings)
 	- [Community](#Community)
-	- 
+	- [Jobs](#Jobs)
+	- [Housing](#Housing)
 - [Contact us](#Contact_us])
 - [License](#license)
 - [External Links](#links)
@@ -32,7 +34,13 @@ Cheyyar Web Page Description Goes here!
 
 ## Yellow Pages
 Contact Details of the business, Services for quick reference goes here 
+
 ###  Auto Services 
+Details Related to Car Mechanics, Bike, Cycle repairs, Farming, pumps - everything related to mechanicals and Electric goes here 
+
+### Education Services 
+Schools, Colleges, Tuitions, extra curricular classes, libraries - everything about learning goes here 
+
 ###  Home Services 
 Details of AC repair, Appliance Repair, Cleaning services, Electricians, Plumbers, 
 ###   Legal Services 
