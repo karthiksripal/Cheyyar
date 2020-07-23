@@ -14,7 +14,7 @@ Cheyyar Web Page Description Goes here!
 	- [Education Services](#Education_Services )
 	- [Home Services ](#Home_Services )
 	- [ Legal Services ](#Legal_Services )
-	- [Health care and Medical Services ](#Health_care_and_Medical_Services )
+	- [Health care and Medical Services ](#Healthcare_and_Medical_Services )
 	- [ Personal Care](#Personal_Care)
 	- [Restaurants and Food Services](#Restaurants_and_Food_Services)
 	-  [Government Services](#Government_Services )
@@ -36,18 +36,51 @@ Cheyyar Web Page Description Goes here!
 Contact Details of the business, Services for quick reference goes here 
 
 ###  Auto Services 
-Details Related to Car Mechanics, Bike, Cycle repairs, Farming, pumps - everything related to mechanicals and Electric goes here 
+ 
+| Category                    	| Name    	| Contact number  	| Address  	| Notes                                                                     	|
+|-----------------------------	|---------	|-----------------	|----------	|---------------------------------------------------------------------------	|
+| Car Mechanic                	| Sukumar 	| +91 123456789   	| Cheyyar  	| Works on weekdays only<br>hourly charges 100 rupees <br>usually punctual  	|
+| Bike Mechanic               	|         	|                 	|          	|                                                                           	|
+| Water Motor Mechanic        	|         	|                 	|          	|                                                                           	|
+| Cycle Mechanic              	|         	|                 	|          	|                                                                           	|
+| Farming Equipments Mechanic 	|         	|                 	|          	|                                                                           	|                                                               	|
 
 ### Education Services 
 Schools, Colleges, Tuitions, extra curricular classes, libraries - everything about learning goes here 
 
+| Category  	| Name                            	| For Ages  	| Contact number  	| Address     	| Facilities Available  	| Notes                                                                               	|
+|-----------	|---------------------------------	|-----------	|-----------------	|-------------	|-----------------------	|-------------------------------------------------------------------------------------	|
+| School    	| St Joseph English Medium School 	| 3 to 14   	| +91 123456789   	| RCM church  	| Huge playground       	| Possibly Oldest School in cheyyar<br>Principle name is <br>Awards <br>Recognitions  	|
+
 ###  Home Services 
-Details of AC repair, Appliance Repair, Cleaning services, Electricians, Plumbers, 
+| Category          	| Name 	| Contact number  	| Address     	| Notes                                                                               	|
+|-------------------	|------	|-----------------	|-------------	|-------------------------------------------------------------------------------------	|
+| AC Repair         	|      	| +91 123456789   	| RCM church  	| Possibly Oldest School in cheyyar<br>Principle name is <br>Awards <br>Recognitions  	|
+| Appliance repair  	|      	|                 	|             	|                                                                                     	|
+| Cleaning Services 	|      	|                 	|             	|                                                                                     	|
+| Electricians      	|      	|                 	|             	|                                                                                     	|
+| Plumbers          	|      	|                 	|             	|                                                                                     	|
 ###   Legal Services 
-Insurance, Notary, Attestations, Lawyers, Document proofing related services Goes here 
+| Category                         	| Name 	| Contact number  	| Address     	| Notes                                                                               	|
+|----------------------------------	|------	|-----------------	|-------------	|-------------------------------------------------------------------------------------	|
+| Bike and Car Insurance           	|      	| +91 123456789   	| RCM church  	| Possibly Oldest School in cheyyar<br>Principle name is <br>Awards <br>Recognitions  	|
+| Notary                           	|      	|                 	|             	|                                                                                     	|
+| Attestations                     	|      	|                 	|             	|                                                                                     	|
+| Attorney/Lawyers/Para-legals     	|      	|                 	|             	|                                                                                     	|
+| Document Formatting and Printing 	|      	|                 	|             	|                                                                                     	|
 
 ###   Health care and Medical Services 
-Doctors, Health specialists, Medicine shops, home nurses, dentists, Gynecologists, OPtometrists, Podiatrics  details goes here 
+| Category                     	| Name 	| Contact number  	| Address     	| Notes                                                                               	|
+|------------------------------	|------	|-----------------	|-------------	|-------------------------------------------------------------------------------------	|
+| General Doctor               	|      	| +91 123456789   	| RCM church  	| Possibly Oldest School in cheyyar<br>Principle name is <br>Awards <br>Recognitions  	|
+| Eye Doctor                   	|      	|                 	|             	|                                                                                     	|
+| Pharmacy                     	|      	|                 	|             	|                                                                                     	|
+| Nurse or Pharmacy Compounder 	|      	|                 	|             	|                                                                                     	|
+| Dentist                      	|      	|                 	|             	|                                                                                     	|
+| Gynacelogist                 	|      	|                 	|             	|                                                                                     	|
+| Optometrist                  	|      	|                 	|             	|                                                                                     	|
+| Podiatry                     	|      	|                 	|             	|                                                                                     	|
+| Child Care                   	|      	|                 	|             	|                                                                                     	|
  
 ###   Personal Care
 Mens, Womens, Children beauty salon, Hair Stylists details goes here 
@@ -83,5 +116,3 @@ The content here is licensed under the terms of the GPL Open Source license and 
 * Social 
 	* [Facebook](https://facebook.com)
 	*  [twitter](https://twitter.com)
-* Wikipedia link 
-* Google news for Cheyyar 
