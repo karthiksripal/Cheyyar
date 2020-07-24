@@ -1,7 +1,5 @@
-## Table of content
 
-- [History](#History)
-    - [History1](#History1)
+- [Introduction](#Introduction)
 - [Yellow Pages](#Yellow_Pages)
 	- [Auto Services ](#Auto_Services )
 	- [Education Services](#Education_Services )
