@@ -57,35 +57,35 @@ Schools, Colleges, Tuitions, extra curricular classes, libraries - everything ab
 
 
 ###  Home Services
-| Category          	| Name 	| Contact number  	| Address     	| Notes                                                                               	|
-|-------------------	|------	|-----------------	|-------------	|-------------------------------------------------------------------------------------	|
-| AC Repair         	|      	| +91 123456789   	| RCM church  	| Text                                                                              	|
-| Appliance repair  	|      	|                 	|             	|                                                                                     	|
-| Cleaning Services 	|      	|                 	|             	|                                                                                     	|
-| Electricians      	|      	|                 	|             	|                                                                                     	|
-| Plumbers          	|      	|                 	|             	|                                                                                     	|
+
+AC Repair        
+Appliance repair 
+Cleaning Services
+Electricians     
+Plumbers         
+
 
 ###   Legal Services
-| Category                         	| Name 	| Contact number  	| Address     	| Notes                                                                               	|
-|----------------------------------	|------	|-----------------	|-------------	|-------------------------------------------------------------------------------------	|
-| Bike and Car Insurance           	|      	| +91 123456789   	| RCM church  	| Possibly Oldest School in cheyyar<br>Principle name is <br>Awards <br>Recognitions  	|
-| Notary                           	|      	|                 	|             	|                                                                                     	|
-| Attestations                     	|      	|                 	|             	|                                                                                     	|
-| Attorney/Lawyers/Para-legals     	|      	|                 	|             	|                                                                                     	|
-| Document Formatting and Printing 	|      	|                 	|             	|                                                                                     	|
+
+Bike and Car Insurance           
+Notary                           
+Attestations                     
+Attorney/Lawyers/Para-legals     
+Document Formatting and Printing 
+
+
+
 
 ###   Health care and Medical Services
-| Category                     	| Name 	| Contact number  	| Address     	| Notes                                                                               	|
-|------------------------------	|------	|-----------------	|-------------	|-------------------------------------------------------------------------------------	|
-| General Doctor               	|      	| +91 123456789   	| RCM church  	| Possibly Oldest School in cheyyar<br>Principle name is <br>Awards <br>Recognitions  	|
-| Eye Doctor                   	|      	|                 	|             	|                                                                                     	|
-| Pharmacy                     	|      	|                 	|             	|                                                                                     	|
-| Nurse or Pharmacy Compounder 	|      	|                 	|             	|                                                                                     	|
-| Dentist                      	|      	|                 	|             	|                                                                                     	|
-| Gynacelogist                 	|      	|                 	|             	|                                                                                     	|
-| Optometrist                  	|      	|                 	|             	|                                                                                     	|
-| Podiatry                     	|      	|                 	|             	|                                                                                     	|
-| Child Care                   	|      	|                 	|             	|                                                                                     	|
+General Doctor               	
+Eye Doctor                   	
+Pharmacy                     	
+Nurse or Pharmacy Compounder 	
+Dentist                      	
+Gynacelogist                 	
+Optometrist                  	
+Podiatry                     	
+Child Care                   	
 
 
 ###  Home Services
@@ -118,29 +118,58 @@ Child Care
 
 
 ###   Personal Care
-Mens, Womens, Children beauty salon, Hair Stylists details goes here
+Mens Hair Stylists
+Women Hair Stylists 
+Beauty Parlours 
+
 ###   Restaurants and Food Services
-Hotels, Street foods details goes here
-Good places for breakfast, Cheap food, good lunch, evening snack, and dinner and drink details goes here
+Hotels
+Street foods 
+Breakfast Places
+Cheap food
+Lunch
+Evening snack
+dinner
+Alcholic drinks 
+Non Alcholic drinks 
 
 ###   Government Services
-Government offices locations, contacts, Politicians, Brokers details goes here
+Government offices
+Politicians
+Brokers
+
 
 ###   General Services
 Everything else - Catch all other services details
-Service job listing like automotive services, beauty, Mobile, Internet, Creative, legal, labor, plumbing related details goes here
+Mobile, 
+Internet
+Creative
+labor
+plumbing
 
 ## Cheyyar Listings
 
 ###  Community
-Everything about the Community activities, festivals, Events, groups, local news, Volunteers details goes here
+Community activities
+festivals
+Events
+groups
+local news
+Volunteers
+Community Projects 
 
 ###  Jobs
-Hiring or jobs needs of the business goes here with the categories like accounting, administrative, farming, Art, food
+Accounting Jobs
+Administrative
+farming
+Art
+food
 
 ### Housing
-Rentals, House, real estate for commercial and residential, Hotels/Lodges details goes here
-
+Rentals
+House Buy or Sell
+Real estate for commercial and residential
+Hotels/Lodges
 
 
 ## Links
@@ -158,3 +187,7 @@ Rentals, House, real estate for commercial and residential, Hotels/Lodges detail
 ## Content License
 
 The content here is licensed under the terms of the GPL Open Source license and is available for free.
+
+## Privacy Policy
+
+No Browsing trackers, content is served only for the benefit if any of the content needs to be removed, modified or updated - The owner just may have to email and I will be sure to get to it as soon as possible. 
