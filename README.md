@@ -146,6 +146,9 @@ Internet
 Creative
 labor
 plumbing
+News Papers 
+Books 
+
 
 ## Cheyyar Listings
 
