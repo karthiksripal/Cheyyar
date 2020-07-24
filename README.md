@@ -55,7 +55,7 @@ Schools, Colleges, Tuitions, extra curricular classes, libraries - everything ab
 |-----------	|---------------------------------	|-----------	|-----------------	|-------------	|-----------------------	|-------------------------------------------------------------------------------------	|
 | School    	| St Joseph English Medium School 	| 3 to 14   	| +91 123456789   	| RCM church  	| Huge playground       	| Possibly Oldest School in cheyyar<br>Principle name is <br>Awards <br>Recognitions  	|
 
-<<<<<<< HEAD
+
 ###  Home Services
 | Category          	| Name 	| Contact number  	| Address     	| Notes                                                                               	|
 |-------------------	|------	|-----------------	|-------------	|-------------------------------------------------------------------------------------	|
@@ -86,7 +86,8 @@ Schools, Colleges, Tuitions, extra curricular classes, libraries - everything ab
 | Optometrist                  	|      	|                 	|             	|                                                                                     	|
 | Podiatry                     	|      	|                 	|             	|                                                                                     	|
 | Child Care                   	|      	|                 	|             	|                                                                                     	|
-=======
+
+
 ###  Home Services
 AC Repair         
 Appliance repair  
