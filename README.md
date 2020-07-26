@@ -4,11 +4,11 @@
 	- [Auto Services ](#Auto_Services )
 	- [Education Services](#Education_Services )
 	- [Home Services ](#Home_Services )
-	- [ Legal Services ](#Legal_Services )
+	- [Legal Services ](#Legal_Services )
 	- [Health care and Medical Services ](#Healthcare_and_Medical_Services )
-	- [ Personal Care](#Personal_Care)
+	- [Personal Care](#Personal_Care)
 	- [Restaurants and Food Services](#Restaurants_and_Food_Services)
-	-  [Government Services](#Government_Services )
+	- [Government Services](#Government_Services )
 	- [General Services](#General_services)
 - [Cheyyar Listings](#Cheyyar_Listings)
 	- [Community](#Community)
@@ -21,9 +21,7 @@
 
 ## Introduction
 
-Hello, Thank you for stopping by and landing here in this webpage. Here I aspire to collect important details for the people living in cheyyar, a one stop collection of all the day to day things one might turn to internet to look up.
-
-This is not an easy task and neither one man activity - I believe - the more the merrier. At least in the internet projects :)
+Hello, Thank you for stopping by and landing here in this webpage. Here I aspire to collect important details for the people living in cheyyar, a one stop collection of all the day to day things one might turn to internet to look up to know a bit more about Cheyyar.
 
 I aspire to keep this collection a simple, easy to look up, quickly accessible and profit and promotion free for the benefit of all of us from cheyyar.  Less focus on the design and graphic and more focus on the content is the idea.
 
@@ -53,8 +51,8 @@ Schools, Colleges, Tuitions, extra curricular classes, libraries - everything ab
 
 | Category  	| Name                            	| For Ages  	| Contact number  	| Address     	| Facilities Available  	| Notes                                                                               	|
 |-----------	|---------------------------------	|-----------	|-----------------	|-------------	|-----------------------	|-------------------------------------------------------------------------------------	|
-| School    	| St Joseph English Medium School 	| 3 to 14   	| +91 123456789   	| RCM church  	| Huge playground       	| Possibly Oldest School in cheyyar<br>Principle name is <br>Awards <br>Recognitions  	|
-
+| School    	| St Joseph English Medium School 	| 3 to 14   	| +91 123456789   	| RCM church  	| playground       	        | Possibly Oldest School in cheyyar<br>Principle name is <br>Awards <br>Recognitions  	|
+| School    	| St Joseph English Medium School 	| 3 to 14   	| +91 123456789   	| RCM church  	| playground       	        | Possibly Oldest School in cheyyar<br>Principle name is <br>Awards <br>Recognitions  	|
 
 ###  Home Services
 
