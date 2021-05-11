@@ -83,7 +83,8 @@ Dentist
 Gynacelogist                 	
 Optometrist                  	
 Podiatry                     	
-Child Care                   	
+Child Care
+Dermatologist-  Dr. Sri Devi. Clinic near Jeeva Medicals, Kumaran Stores and next to Dhanalakshmi groceries shop
 
 
 ###  Home Services
