@@ -31,7 +31,7 @@ Contact us [here](#Contact_us)
 
 ## Yellow Pages
 
-###  Auto Services
+###  Auto
 
 * Call a Cab
 * Call a Driver
@@ -46,7 +46,7 @@ Contact us [here](#Contact_us)
 | Cycle Mechanic              	|         	|                 	|          	|                                                                           	|
 | Farming Equipments Mechanic 	|         	|                 	|          	|                                                                           	|                                                               	|
 
-### Education Services
+### Education 
 Schools, Colleges, Tuitions, extra curricular classes, libraries - everything about learning goes here
 
 | Category  	| Name                            	| For Ages  	| Contact number  	| Address     	| Facilities Available  	| Notes                                                                               	|
@@ -54,7 +54,7 @@ Schools, Colleges, Tuitions, extra curricular classes, libraries - everything ab
 | School    	| St Joseph English Medium School 	| 3 to 14   	| +91 123456789   	| RCM church  	| playground       	        | Possibly Oldest School in cheyyar<br>Principle name is <br>Awards <br>Recognitions  	|
 | School    	| St Joseph English Medium School 	| 3 to 14   	| +91 123456789   	| RCM church  	| playground       	        | Possibly Oldest School in cheyyar<br>Principle name is <br>Awards <br>Recognitions  	|
 
-###  Home Services
+###  Home 
 
 AC Repair        
 Appliance repair 
@@ -63,7 +63,7 @@ Electricians
 Plumbers         
 
 
-###   Legal Services
+###   Legal 
 
 Bike and Car Insurance           
 Notary                           
@@ -74,20 +74,21 @@ Document Formatting and Printing
 
 
 
-###   Health care and Medical Services
-General Doctor               	
-Eye Doctor                   	
-Pharmacy                     	
-Nurse or Pharmacy Compounder 	
-Dentist                      	
-Gynacelogist                 	
-Optometrist                  	
-Podiatry                     	
-Child Care
-Dermatologist-  Dr. Sri Devi. Clinic near Jeeva Medicals, Kumaran Stores and next to Dhanalakshmi groceries shop
+###   Healthcare 
+* General Doctor               	
+* Eye Doctor                   	
+* Pharmacy                     	
+* Nurse or Pharmacy Compounder 	
+* Dentist                      	
+* Gynacelogist                 	
+* Optometrist                  	
+* Podiatry                     	
+* Child Care
+* Dermatologist
+	* 	Dr. Sri Devi. Clinic near Jeeva Medicals, Kumaran Stores and next to Dhanalakshmi groceries shop
 
 
-###  Home Services
+###  Home
 AC Repair         
 Appliance repair  
 Cleaning Services
@@ -95,7 +96,7 @@ Electricians
 Plumbers          
 
 
-###   Legal Services
+###   Legal
 
 Bike and Car Insurance          
 Notary                          
@@ -104,7 +105,7 @@ Attorney/Lawyers/Para-legals
 Document Formatting and Printing
 
 
-###   Health care and Medical Services
+###   Healthcare
 General Doctor              
 Eye Doctor                  
 Pharmacy                    
@@ -116,12 +117,12 @@ Podiatry
 Child Care                  
 
 
-###   Personal Care
+###   PersonalCare
 Mens Hair Stylists
 Women Hair Stylists 
 Beauty Parlours 
 
-###   Restaurants and Food Services
+###   Food Services
 Hotels
 Street foods 
 Breakfast Places
@@ -132,13 +133,13 @@ dinner
 Alcholic drinks 
 Non Alcholic drinks 
 
-###   Government Services
+###   Government 
 Government offices
 Politicians
 Brokers
 
 
-###   General Services
+###   General 
 Everything else - Catch all other services details
 Mobile, 
 Internet
@@ -149,7 +150,7 @@ News Papers
 Books 
 
 
-## Cheyyar Listings
+## Listings
 
 ###  Community
 Community activities
