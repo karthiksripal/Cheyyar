@@ -36,7 +36,7 @@ If you would like to be part of this project and want to be able to edit, update
 
 
 
-Contact us [here](#Contact_us)
+<!-- Contact us [here](#Contact_us) -->
 
 ## Yellow Pages
 
