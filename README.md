@@ -1,7 +1,10 @@
 
-|Col1|Col2|Col3|
+|    |    |    |
+|----|----|----|
 |R1  | R2 | R3 |
 
+|    |    |    |
+|----|----|----|
 
 ## [Bus, Taxi, Auto, Drivers From/To/Via Cheyyar ](/Bus_Taxi_Auto.md)
 ## [Home Internet in Cheyyar ](/Home_Internet.md)
