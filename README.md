@@ -43,9 +43,9 @@ Around Cheyyar, Home Internet is provided by
 ### **Call a Taxi**
 S.no | Name | Contact 
 -----|------|--------
-1 | Sukumar S | +91 950 056 6540
+1 | Sukumar | +91 950 056 6540
 2 | Sridhar | +91 861 057 3201
-3 | Velu | +91 979 009 6256
+3 | Velu    | +91 979 009 6256
 
 * Call a Driver
 1. Sukumar S - +91 950 056 6540
