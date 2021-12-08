@@ -1,19 +1,7 @@
-Hello,
 
-Thank you for stopping by and landing here in this webpage.
+**Cheyyar Yellow Pages**
 
-Here I aspire to collect important details **FOR** the people living in **Cheyyar** - A one stop collection of all the day to day things one might turn to internet to look up to know information about living here.
-
-I aim to keep this page
-1. Simple, 
-2. easy to look up, 
-3. quickly accessible 
-4. Not for profit 
-5. Promotion free 
-
-Less focus on the design and graphics and more focus on the content and keep it bare minimal is the idea.
-
-If you would like to be part of this project and want to be able to edit, update, delete  correct the contents of this page, or just want to send me the details to get it added here - Please know you are more than welcome to do so. would love to hear from you!
+[About_this_Page](About_this_page)
 
 For More upto date informations on Cheyyar local news  - [Twitter list of accounts tweeting about Cheyyar](https://twitter.com/i/lists/1468486874947751940)
 
@@ -40,6 +28,7 @@ Around Cheyyar, Home Internet is provided by
 	Rumoured to be of not so great customer service. 
 
 ## Transport 
+
 ### **Call a Taxi**
 
 |S.no   | Name    | Contact          |
@@ -48,19 +37,45 @@ Around Cheyyar, Home Internet is provided by
 |2      | Sridhar | +91 861 057 3201 |
 |3      | Velu    | +91 979 009 6256 |
 
-* Call a Driver
-1. Sukumar S - +91 950 056 6540
-2. Moorthy - +91 984 194 4364
-3. Arul - +91 909 556 7988
+### **Call a Driver**
+
+|S.no   | Name    | Contact          |
+|:-----:|:-------:|:----------------:|
+|1      |Sukumar  | +91 950 056 6540 |
+|2      |Moorthy  | +91 984 194 4364 |
+|3      |Arul     | +91 909 556 7988 |
 
 
-* Call an auto
-1. Sukumar S - +91 950 056 6540
-2. Vijayakanth - +91 740 221 6521
-3. Arun - +91 720 069 4004
-4. Narayanan - +91 780 697 0709
+### **Call an auto**
 
-* Public Transport Bus Timings 
+|S.no   | Name        | Contact          |
+|:-----:|:-----------:|:----------------:|
+|1      |Sukumar      | +91 950 056 6540 |
+|2      |Vijayakanth  | +91 740 221 6521 |
+|3      |Arun         | +91 720 069 4004 |
+|4      |Narayanan    | +91 780 697 0709 |
+
+
+### **Public Transport Bus Timings**
+
+|From       | To/Towards        | Bus Details      |   
+|:---------:|:-----------------:|:----------------:|
+|Cheyyar    |Chennai            | 0500             |
+|Cheyyar    |Chennai            | 0600             |
+|Cheyyar    |Chennai            | 0700             |
+|Cheyyar    |Chennai            | 0800             |
+|Cheyyar    |Chennai            | 0900             |
+|Cheyyar    |Chennai            | 1000             |
+|Chennai    |                   |                  |
+|Vellore    |                   |                  |
+|Vandavasi  |                   |                  |
+|Chettupattu|                   |                  |
+|Salem      |                   |                  |
+|Banglore   |                   |                  |
+|Tirupathi  |                   |                  |
+
+
+
 1. **Towards Chennai and Kanchipuram**
 2. **Towards Vellore via Arcot**
 3. **Towards Arni**
@@ -172,3 +187,4 @@ The content here is licensed under the terms of the GPL Open Source license and 
 ## Privacy Policy
 
 No Browsing trackers, content is served only for the benefit if any of the content needs to be removed, modified or updated - The owner just may have to email and I will be sure to get to it as soon as possible. 
+
