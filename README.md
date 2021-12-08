@@ -1,3 +1,6 @@
+|Col1|Col2|Col3|
+|----|----|----|
+|R1  | R2 | R3 |
 
 
 ## [Bus, Taxi, Auto, Drivers From/To/Via Cheyyar ](/Bus_Taxi_Auto.md)
@@ -9,25 +12,6 @@
 ## [Food and Eat out places](/Food.md)
 ## [Personal Care Services](/Personals.md)
 
+
 ##### [About this Page](/About_this_Page.md)  
 For More upto date info on Cheyyar local news  - [Twitter list of accounts tweeting about Cheyyar](https://twitter.com/i/lists/1468486874947751940)
-
-
-
-
-
-
-
-
-
-        
-
-
-
- 
-
-
- 
-
-
-
