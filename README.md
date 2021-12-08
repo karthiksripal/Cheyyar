@@ -16,8 +16,9 @@ Less focus on the design and graphics and more focus on the content and keep it 
 If you would like to be part of this project and want to be able to edit, update, delete  correct the contents of this page, or just want to send me the details to get it added here - Please know you are more than welcome to do so. would love to hear from you!
 
 # Table of Contents 
-1. [Home_Internet](#Home Internet)
+1. [Home_Internet](#Home-Internet)
 2. [Transport](#Transport)
+3. [Education](#Education)
 
 
 ### Home Internet 
@@ -32,7 +33,7 @@ Around Cheyyar, Home Internet is provided by
 3. **BSNL Internet**
 	Rumoured to be of not so great customer service. 
 
-###  Transport 
+### Transport 
 * Call a Cab
 1. Sathish
 * Call a Driver
@@ -49,37 +50,20 @@ Around Cheyyar, Home Internet is provided by
 4. **Towards Vandavasi, Pondicherry**
 5. **Towards Chettupattu**
 
- 
-
 ### Education 
 1. Typewriting Institutes 
 2. Tailoring Institutes 
 3. Driving Schools 
 4. Primary Schools
 
+### Home Maintennance
+AC Repair         
+Appliance repair  
+Cleaning Services
+Electricians      
+Plumbers  
 
-###  Home 
-
-AC Repair        
-TV and Electronic Appliances repair 
-Home Electricians
-Plumbers
-
-
-
-
-###   Legal 
-
-Bike and Car Insurance           
-Notary                           
-Attestations                     
-Attorney/Lawyers/Para-legals     
-Document Formatting and Printing
-Income Tax 
-* Sivakumar - Kasi Kara street 
-* Jayachandran - right across from Aavin next to Kasi kara street 
-
-###   Health 
+### Health 
 1. General Doctor               	
 2. Eye Doctor  
 	* Senthil - Near othavadai Street - right across from the old Soundari Theatre 	
@@ -94,19 +78,23 @@ Income Tax
 * Dermatologist
 	* 	Dr. Sri Devi. Clinic near Jeeva Medicals, Kumaran Stores and next to Dhanalakshmi groceries shop
 
-###  Home Maintennance
-AC Repair         
-Appliance repair  
-Cleaning Services
-Electricians      
-Plumbers          
+### Legal 
 
-###   Personal Care
+Bike and Car Insurance           
+Notary                           
+Attestations                     
+Attorney/Lawyers/Para-legals     
+Document Formatting and Printing
+Tax Auditors and Income Tax filing Agents 
+* Sivakumar - Kasi Kara street 
+* Jayachandran - right across from Aavin next to Kasi kara street         
+
+### Personal Care
 Mens Hair Stylists
 Women Hair Stylists 
 Beauty Parlours 
 
-###   Food Services
+### Food 
 Hotels
 Street foods 
 Breakfast Places
@@ -115,11 +103,11 @@ Lunch
 Evening snack
 Grills 
 
-###   Government 
+### Government 
 Government offices
 Politicians
 
-###   General 
+### General 
 Everything else - Catch all other services details
 Mobile
 Creative
@@ -128,7 +116,7 @@ Books
 
 ## Listings
 
-###  Community
+### Community
 Community activities
 festivals
 Events
