@@ -15,7 +15,7 @@ Less focus on the design and graphics and more focus on the content and keep it 
 
 If you would like to be part of this project and want to be able to edit, update, delete  correct the contents of this page, or just want to send me the details to get it added here - Please know you are more than welcome to do so. would love to hear from you!
 
-##### Content License and Privacy Policy
+##### **Content License and Privacy Policy**
 
 The content here is licensed under the terms of the GPL Open Source license and is available for free.
 
