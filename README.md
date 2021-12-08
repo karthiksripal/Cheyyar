@@ -1,12 +1,15 @@
 
 |    |    |    |
-|----|----|----|
-|R1  | R2 | R3 |
+|-------------------------------------------------------------------|----|----|
+|[Bus, Taxi, Auto, Drivers From/To/Via Cheyyar ](/Bus_Taxi_Auto.md) | R2 | R3 |
+|[Bus, Taxi, Auto, Drivers From/To/Via Cheyyar ](/Bus_Taxi_Auto.md) | R2 | R3 |
+|[Bus, Taxi, Auto, Drivers From/To/Via Cheyyar ](/Bus_Taxi_Auto.md) | R2 | R3 |
+|[Bus, Taxi, Auto, Drivers From/To/Via Cheyyar ](/Bus_Taxi_Auto.md) | R2 | R3 |
+|[Bus, Taxi, Auto, Drivers From/To/Via Cheyyar ](/Bus_Taxi_Auto.md) | R2 | R3 |
 
-|    |    |    |
-|----|----|----|
 
-## [Bus, Taxi, Auto, Drivers From/To/Via Cheyyar ](/Bus_Taxi_Auto.md)
+
+ 
 ## [Home Internet in Cheyyar ](/Home_Internet.md)
 ## [Doctors, Pharmacies and health services](/Health.md)
 ## [Legal Services](/Legal.md)
