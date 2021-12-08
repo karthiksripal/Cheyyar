@@ -1,19 +1,19 @@
 
 - [Introduction](#Introduction)
 - [YellowPages](#YellowPages)
-	- [Auto](#Auto)
-	- [Education](#Education)
-	- [Home](#Home)
-	- [Legal](#Legal)
-	- [Healthcare](#Healthcare)
-	- [PersonalCare](#PersonalCare)
-	- [Food](#Food)
-	- [Government](#Government)
-	- [General](#General)
+- [Auto](#Auto)
+- [Education](#Education)
+- [Home](#Home)
+- [Legal](#Legal)
+- [Healthcare](#Healthcare)
+- [PersonalCare](#PersonalCare)
+- [Food](#Food)
+- [Government](#Government)
+- [General](#General)
 - [Listings](#Listings)
-	- [Community](#Community)
-	- [Jobs](#Jobs)
-	- [Housing](#Housing)
+- [Community](#Community)
+- [Jobs](#Jobs)
+- [Housing](#Housing)
 - [Contact us](#Contact_us])
 - [License](#license)
 - [Privacy Policy ](#Privacy_Policy)
@@ -21,7 +21,7 @@
 
 ## Introduction
 
-Hello, Thank you for stopping by and landing here in this webpage. Here I aspire to collect important details for the people living in cheyyar, a one stop collection of all the day to day things one might turn to internet to look up to know a bit more about Cheyyar.
+Hello, Thank you for stopping by and landing here in this webpage. Here I aspire to collect important details FOR the people living in cheyyar, a one stop collection of all the day to day things one might turn to internet to look up to know a bit more about Cheyyar.
 
 I aspire to keep this collection a simple, easy to look up, quickly accessible and profit and promotion free for the benefit of all of us from cheyyar.  Less focus on the design and graphic and more focus on the content is the idea.
 
@@ -37,23 +37,12 @@ Contact us [here](#Contact_us)
 * Call a Driver
 * Call an auto
 
-
-| Category                    	| Name    	| Contact number  	| Address  	| Notes                                                                     	|
-|-----------------------------	|---------	|-----------------	|----------	|---------------------------------------------------------------------------	|
-| Car Mechanic                	| Sukumar 	| +91 123456789   	| Cheyyar  	| Works on weekdays only<br>hourly charges 100 rupees <br>usually punctual  	|
-| Bike Mechanic               	|         	|                 	|          	|                                                                           	|
-| Water Motor Mechanic        	|         	|                 	|          	|                                                                           	|
-| Cycle Mechanic              	|         	|                 	|          	|                                                                           	|
-| Farming Equipments Mechanic 	|         	|                 	|          	|                                                                           	|                                                               	|
+ 
 
 ### Education 
 Schools, Colleges, Tuitions, extra curricular classes, libraries - everything about learning goes here
 
-| Category  	| Name                            	| For Ages  	| Contact number  	| Address     	| Facilities Available  	| Notes                                                                               	|
-|-----------	|---------------------------------	|-----------	|-----------------	|-------------	|-----------------------	|-------------------------------------------------------------------------------------	|
-| School    	| St Joseph English Medium School 	| 3 to 14   	| +91 123456789   	| RCM church  	| playground       	        | Possibly Oldest School in cheyyar<br>Principle name is <br>Awards <br>Recognitions  	|
-| School    	| St Joseph English Medium School 	| 3 to 14   	| +91 123456789   	| RCM church  	| playground       	        | Possibly Oldest School in cheyyar<br>Principle name is <br>Awards <br>Recognitions  	|
-
+ 
 ###  Home 
 
 AC Repair        
@@ -69,11 +58,11 @@ Bike and Car Insurance
 Notary                           
 Attestations                     
 Attorney/Lawyers/Para-legals     
-Document Formatting and Printing 
+Document Formatting and Printing
 Income Tax 
 * Sivakumar - Kasi Kara street 
 * Jayachandran - right across from Aavin next to Kasi kara street 
-* 
+
 
 
 
@@ -181,7 +170,7 @@ Hotels/Lodges
 ## Links
 
 * [Mirror1 Web site](https://cheyyar.com)
-*  [Mirror2 Web site](https://cheyyaru.com)
+* [Mirror2 Web site](https://cheyyaru.com)
 
 ### Social links
 
