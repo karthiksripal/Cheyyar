@@ -25,7 +25,7 @@ If you would like to be part of this project and want to be able to edit, update
 7. [Food](#Food)
 8. [Government](#Government)
 
-### Home Internet 
+## Home Internet 
 Around Cheyyar, Home Internet is provided by 
 1. **TIC Fiber**
 	https://www.ticfiber.in/
@@ -37,7 +37,7 @@ Around Cheyyar, Home Internet is provided by
 3. **BSNL Internet**
 	Rumoured to be of not so great customer service. 
 
-### Transport 
+## Transport 
 * Call a Cab
 1. Sathish
 * Call a Driver
@@ -54,35 +54,35 @@ Around Cheyyar, Home Internet is provided by
 4. **Towards Vandavasi, Pondicherry**
 5. **Towards Chettupattu**
 
-### Education 
+## Education 
 1. Typewriting Institutes 
 2. Tailoring Institutes 
 3. Driving Schools 
 4. Primary Schools
 
-### Home Maintennance
+## Home Maintennance
 AC Repair         
 Appliance repair  
 Cleaning Services
 Electricians      
 Plumbers  
 
-### Health 
+## Health 
 1. General Doctor               	
 2. Eye Doctor  
 	* Senthil - Near othavadai Street - right across from the old Soundari Theatre 	
 * Pharmacy                     	
 	* Jeeva Pharmacy - Near the Murugan Textiles, across from 
-* Nurse or Pharmacy Compounder 	
+* Dermatologist
+	* 	Dr. Sri Devi. Clinic near Jeeva Medicals, Kumaran Stores and next to Dhanalakshmi groceries shop
+* ENT Specialist 
 * Dentist                      	
 * Gynacelogist                 	
 * Optometrist                  	
 * Podiatry                     	
 * Child Care
-* Dermatologist
-	* 	Dr. Sri Devi. Clinic near Jeeva Medicals, Kumaran Stores and next to Dhanalakshmi groceries shop
 
-### Legal 
+## Legal 
 
 Bike and Car Insurance           
 Notary                           
@@ -93,12 +93,12 @@ Tax Auditors and Income Tax filing Agents
 * Sivakumar - Kasi Kara street 
 * Jayachandran - right across from Aavin next to Kasi kara street         
 
-### Personal Care
+## Personal Care
 Mens Hair Stylists
 Women Hair Stylists 
 Beauty Parlours 
 
-### Food 
+## Food 
 Hotels
 Street foods 
 Breakfast Places
@@ -107,11 +107,11 @@ Lunch
 Evening snack
 Grills 
 
-### Government 
+## Government 
 Government offices
 Politicians
 
-### General 
+## General 
 Everything else - Catch all other services details
 Mobile
 Creative
@@ -129,14 +129,14 @@ local news
 Volunteers
 Community Projects 
 
-###  Jobs
+##  Jobs
 Accounting Jobs
 Administrative
 farming
 Art
 food
 
-### Housing
+## Housing
 Rentals
 House Buy or Sell
 Real estate for commercial and residential
