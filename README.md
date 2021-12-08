@@ -1,9 +1,9 @@
 
 **Cheyyar Yellow Pages**
 
-[About_this_Page](About_this_page)
+[About this Page](About_this_page.md)
 
-For More upto date informations on Cheyyar local news  - [Twitter list of accounts tweeting about Cheyyar](https://twitter.com/i/lists/1468486874947751940)
+For More upto date info on Cheyyar local news  - [Twitter list of accounts tweeting about Cheyyar](https://twitter.com/i/lists/1468486874947751940)
 
 # Table of Contents 
 1. [Home_Internet](#Home_Internet)
