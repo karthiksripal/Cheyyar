@@ -1,13 +1,17 @@
 
-* Bike/ Car Motor Insurance           
-* Health Insurance 
-* Life Insurance 
+**Tax Auditors and Income Tax filing Agents**
 
-* Notary                           
-* Attestations                     
-* Attorney/Lawyers/Para-legals     
-* Document Formatting and Printing
+| Name | Location | Contact |
+|------|----------|---------|
+|Sivakumar | Kasi Kara street| | 
+|Jayachandran | Across from Aavin next to Kasi kara street  | |
 
-* Tax Auditors and Income Tax filing Agents 
-        Sivakumar - Kasi Kara street 
-        Jayachandran - right across from Aavin next to Kasi kara street 
+* **Bike/ Car Motor Insurance**
+
+* **Health Insurance**
+* **Life Insurance**
+
+* **Notary**
+* **Attestations**
+* **Attorney/Lawyers/Para-legals**
+* **Document Formatting and Printing**
