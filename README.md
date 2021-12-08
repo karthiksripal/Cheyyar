@@ -97,7 +97,7 @@ Income Tax
 
 
 
-###   Healthcare 
+###   Health 
 1. General Doctor               	
 2. Eye Doctor  
 	* Senthil - Near othavadai Street - right across from the old Soundari Theatre 	
@@ -113,7 +113,7 @@ Income Tax
 	* 	Dr. Sri Devi. Clinic near Jeeva Medicals, Kumaran Stores and next to Dhanalakshmi groceries shop
 
 
-###  Home
+###  Home Maintennance
 AC Repair         
 Appliance repair  
 Cleaning Services
@@ -121,28 +121,7 @@ Electricians
 Plumbers          
 
 
-###   Legal
-
-Bike and Car Insurance          
-Notary                          
-Attestations                    
-Attorney/Lawyers/Para-legals    
-Document Formatting and Printing
-
-
-###   Healthcare
-General Doctor              
-Eye Doctor                  
-Pharmacy                    
-Nurse or Pharmacy Compounder
-Dentist                     
-Gynacelogist                
-Optometrist                 
-Podiatry                    
-Child Care                  
-
-
-###   PersonalCare
+###   Personal Care
 Mens Hair Stylists
 Women Hair Stylists 
 Beauty Parlours 
@@ -154,23 +133,16 @@ Breakfast Places
 Cheap food
 Lunch
 Evening snack
-dinner
-Alcholic drinks 
-Non Alcholic drinks 
+Grills 
 
 ###   Government 
 Government offices
 Politicians
-Brokers
-
 
 ###   General 
 Everything else - Catch all other services details
-Mobile, 
-Internet
+Mobile
 Creative
-labor
-plumbing
 News Papers 
 Books 
 
@@ -200,17 +172,10 @@ Real estate for commercial and residential
 Hotels/Lodges
 
 
-## Links
+## External Links
 
 * [Mirror1 Web site](https://cheyyar.com)
 * [Mirror2 Web site](https://cheyyaru.com)
-
-### Social links
-
-* [Facebook](https://facebook.com)
-* [twitter](https://twitter.com)
-* [Reddit](https://twitter.com)
-
 
 ## Content License
 
