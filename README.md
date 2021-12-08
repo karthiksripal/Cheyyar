@@ -15,11 +15,10 @@ Less focus on the design and graphics and more focus on the content and keep it 
 
 If you would like to be part of this project and want to be able to edit, update, delete  correct the contents of this page, or just want to send me the details to get it added here - Please know you are more than welcome to do so. would love to hear from you!
 
-For More upto date informations on Cheyyar local news follow - https://twitter.com/i/lists/1468486874947751940 
-
+For More upto date informations on Cheyyar local news  - [Twitter list of accounts tweeting about Cheyyar](https://twitter.com/i/lists/1468486874947751940)
 
 # Table of Contents 
-1. [Home Internet](#Home-Internet)
+1. [Home Internet](#Internet)
 2. [Transport](#Transport)
 3. [Education](#Education)
 4. [Home Maintennance](#Home-Maintennance)
@@ -28,7 +27,7 @@ For More upto date informations on Cheyyar local news follow - https://twitter.c
 7. [Food](#Food)
 8. [Government](#Government)
 
-## Home Internet <a name="Home Internet"></a>
+## Internet <a name="Home Internet"></a>
 Around Cheyyar, Home Internet is provided by 
 1. **TIC Fiber**
 	https://www.ticfiber.in/
