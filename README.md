@@ -1,7 +1,8 @@
 
 **Cheyyar Yellow Pages**
 
-[About this Page](/About_this_Page.md)
+## [About this Page](/About_this_Page.md)  
+## [Bus, Taxi, Auto, Drivers info](/Bus_Taxi_Auto.md)
 
 For More upto date info on Cheyyar local news  - [Twitter list of accounts tweeting about Cheyyar](https://twitter.com/i/lists/1468486874947751940)
 
@@ -26,18 +27,6 @@ Around Cheyyar, Home Internet is provided by
 	Easy portablity from and to existing BSNL landlines 
 3. **BSNL Internet**
 	Rumoured to be of not so great customer service. 
-
-
-
-
-
-
-1. **Towards Chennai and Kanchipuram**
-2. **Towards Vellore via Arcot**
-3. **Towards Arni**
-4. **Towards Vandavasi, Pondicherry**
-5. **Towards Chettupattu**
-6. **Long Distance busses** 
 
 ## Education 
 1. Typewriting Institutes 
