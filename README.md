@@ -28,7 +28,7 @@ Around Cheyyar, Home Internet is provided by
 
 ###  Transport 
 * Call a Cab
-1.Sathish
+1. Sathish
 * Call a Driver
 1. Sukumar 
 * Call an auto
@@ -73,9 +73,6 @@ Income Tax
 * Sivakumar - Kasi Kara street 
 * Jayachandran - right across from Aavin next to Kasi kara street 
 
-
-
-
 ###   Health 
 1. General Doctor               	
 2. Eye Doctor  
@@ -91,14 +88,12 @@ Income Tax
 * Dermatologist
 	* 	Dr. Sri Devi. Clinic near Jeeva Medicals, Kumaran Stores and next to Dhanalakshmi groceries shop
 
-
 ###  Home Maintennance
 AC Repair         
 Appliance repair  
 Cleaning Services
 Electricians      
 Plumbers          
-
 
 ###   Personal Care
 Mens Hair Stylists
@@ -124,7 +119,6 @@ Mobile
 Creative
 News Papers 
 Books 
-
 
 ## Listings
 
