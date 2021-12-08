@@ -18,7 +18,7 @@ If you would like to be part of this project and want to be able to edit, update
 For More upto date informations on Cheyyar local news  - [Twitter list of accounts tweeting about Cheyyar](https://twitter.com/i/lists/1468486874947751940)
 
 # Table of Contents 
-1. [Home Internet](#Home Internet)
+1. [Home Internet](#Home-Internet)
 2. [Transport](#Transport)
 3. [Education](#Education)
 4. [Home Maintennance](#Home-Maintennance)
@@ -27,7 +27,7 @@ For More upto date informations on Cheyyar local news  - [Twitter list of accoun
 7. [Food](#Food)
 8. [Government](#Government)
 
-## Internet <a name="Home Internet"></a>
+## Internet 
 Around Cheyyar, Home Internet is provided by 
 1. **TIC Fiber**
 	https://www.ticfiber.in/
