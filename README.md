@@ -15,7 +15,6 @@
 |R1 | R2 | R3 |
 |R1 | R2 | R3 |
 
-# 📶 
-
-##### [About this Page](/About_this_Page.md)  
+# 
+##### [📶 About this Page](/About_this_Page.md)  
 For More upto date info on Cheyyar local news  - [Twitter list of accounts tweeting about Cheyyar](https://twitter.com/i/lists/1468486874947751940)

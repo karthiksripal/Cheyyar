@@ -1,5 +1,6 @@
 
 **From Cheyyar**
+
 |From       | To/Towards        | Bus Name         |   
 |:---------:|:-----------------:|:----------- -----|
 |Cheyyar    |Chennai            | 0510 Ramajayam   |
@@ -9,7 +10,11 @@
 |Cheyyar    |Chennai            | 0900             |
 |Cheyyar    |Chennai            | 1000             |
 
+
 **To Cheyyar**
+
+
+
 |From       | To/Towards        | Bus Name         |   
 |:---------:|:-----------------:|:----------- -----|
 |Chennai    |Cheyyar            |                  |
