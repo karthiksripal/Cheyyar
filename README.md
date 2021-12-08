@@ -16,10 +16,14 @@ Less focus on the design and graphics and more focus on the content and keep it 
 If you would like to be part of this project and want to be able to edit, update, delete  correct the contents of this page, or just want to send me the details to get it added here - Please know you are more than welcome to do so. would love to hear from you!
 
 # Table of Contents 
-1. [Home_Internet](#Home-Internet)
+1. [Home Internet](#Home-Internet)
 2. [Transport](#Transport)
 3. [Education](#Education)
-
+4. [Home Maintennance](#Home-Maintennance)
+5. [Health](#Health)
+6. [Personal Care](#Personal-Care)
+7. [Food](#Food)
+8. [Government](#Government)
 
 ### Home Internet 
 Around Cheyyar, Home Internet is provided by 
