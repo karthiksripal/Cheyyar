@@ -1,4 +1,18 @@
-- [Introduction](#Introduction)
+Hello, Thank you for stopping by and landing here in this webpage.
+
+Here I aspire to collect important details **FOR** the people living in **Cheyyar** - A one stop collection of all the day to day things one might turn to internet to look up to know information about living here.
+
+I aim to keep this collection 
+	* a simple, 
+	* easy to look up, 
+	* quickly accessible 
+	* Not for profit 
+	* Promotion free 
+
+Less focus on the design and graphics and more focus on the content and keep it bare minimal is the idea.
+
+If you would like to be part of this project and want to be able to edit, update, delete  correct the contents of this page, or just want to send me the details to get it added here - Please know you are more than welcome to do so. would love to hear from you!
+
 - [YellowPages](#YellowPages)
 - [Auto](#Auto)
 - [Education](#Education)
@@ -18,13 +32,9 @@
 - [Privacy Policy ](#Privacy_Policy)
 - [External Links](#links)
 
-## Introduction
+ 
 
-Hello, Thank you for stopping by and landing here in this webpage. Here I aspire to collect important details FOR the people living in cheyyar, a one stop collection of all the day to day things one might turn to internet to look up to know a bit more about Cheyyar.
 
-I aspire to keep this collection a simple, easy to look up, quickly accessible and profit and promotion free for the benefit of all of us from cheyyar.  Less focus on the design and graphic and more focus on the content is the idea.
-
-If you would like to be part of this project and want to be able to edit, update, delete  correct the contents of this page, or just want to send me the details to get it added here - Please know you are more than welcome to do so. would love to hear from you!
 
 Contact us [here](#Contact_us)
 
