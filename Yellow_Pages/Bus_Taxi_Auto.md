@@ -1,19 +1,24 @@
 
-|From       | To/Towards        | Bus Details      |   
-|:---------:|:-----------------:|:----------------|
-|Cheyyar    |Chennai            | 0500             |
+**From Cheyyar**
+|From       | To/Towards        | Bus Name         |   
+|:---------:|:-----------------:|:----------- -----|
+|Cheyyar    |Chennai            | 0510 Ramajayam   |
 |Cheyyar    |Chennai            | 0600             |
 |Cheyyar    |Chennai            | 0700             |
 |Cheyyar    |Chennai            | 0800             |
 |Cheyyar    |Chennai            | 0900             |
 |Cheyyar    |Chennai            | 1000             |
-|Chennai    |                   |                  |
-|Vellore    |                   |                  |
-|Vandavasi  |                   |                  |
-|Chettupattu|                   |                  |
-|Salem      |                   |                  |
-|Banglore   |                   |                  |
-|Tirupathi  |                   |                  |
+
+**To Cheyyar**
+|From       | To/Towards        | Bus Name         |   
+|:---------:|:-----------------:|:----------- -----|
+|Chennai    |Cheyyar            |                  |
+|Vellore    |Cheyyar                   |                  |
+|Vandavasi  |Cheyyar                  |                  |
+|Chettupattu|Cheyyar           |                  |
+|Salem      |Cheyyar    |                  |
+|Banglore   |Cheyyar |                  |
+|Tirupathi  |Cheyyar |                  |
 
 ### **Call a Taxi**
 

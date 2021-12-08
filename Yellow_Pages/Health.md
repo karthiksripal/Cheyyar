@@ -1,4 +1,9 @@
 
+| General/Speciality | Dr. Name | Location | Contact | Comment |
+|--------------------|----------|------------------------|---------|--------|
+| General 			 |Dr. Suresh| Across Govt Boys School|         |         |
+| Eye    			 |Dr. Senthil| Othavadai Street near govt Boys School|         |         |  
+|                    |           |         |          |           |
 
 1. General Doctor               	
 2. Eye Doctor  
