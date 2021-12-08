@@ -1,4 +1,3 @@
-## Food 
 Coffee and Tea
 * **Tea Time**
 	Opposite to SBI, Arcot Road. 

@@ -1,4 +1,3 @@
-
 |                                                                   |    |    |
 |-------------------------------------------------------------------|----|----|
 |[Bus, Taxi, Auto, Drivers From/To/Via Cheyyar ](/Yellow_Pages/Bus_Taxi_Auto.md) | R2 | R3 |

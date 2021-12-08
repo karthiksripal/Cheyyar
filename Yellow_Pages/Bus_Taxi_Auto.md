@@ -1,7 +1,4 @@
 
-
-### **Bus Timings**
-
 |From       | To/Towards        | Bus Details      |   
 |:---------:|:-----------------:|:----------------|
 |Cheyyar    |Chennai            | 0500             |

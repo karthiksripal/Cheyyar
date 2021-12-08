@@ -1,6 +1,5 @@
-## Home Maintennance
-AC Repair         
-Appliance repair  
-Cleaning Services
-Electricians      
-Plumbers  
+* AC Repair         
+* Appliance repair  
+* Cleaning Services
+* Electricians      
+* Plumbers  

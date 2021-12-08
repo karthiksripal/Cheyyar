@@ -1,4 +1,3 @@
-## Legal 
 
 * Bike/ Car Motor Insurance           
 * Health Insurance 

@@ -1,6 +1,3 @@
-
-### Home Internet
-
 Around Cheyyar, Home Internet is provided by 
 1. **TIC Fiber**
 	https://www.ticfiber.in/

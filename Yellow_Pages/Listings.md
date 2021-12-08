@@ -1,6 +1,5 @@
-## Listings
 
-### Community
+
 Community activities
 festivals
 Events
@@ -9,14 +8,14 @@ local news
 Volunteers
 Community Projects 
 
-##  Jobs
+**Jobs**
 Accounting Jobs
 Administrative
 farming
 Art
 food
 
-## Housing
+**Housing**
 Rentals
 House Buy or Sell
 Real estate for commercial and residential
