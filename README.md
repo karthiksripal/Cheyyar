@@ -36,21 +36,31 @@ If you would like to be part of this project and want to be able to edit, update
 
 ### Home Internet 
 Around Cheyyar, Home Internet is provided by 
-1. TIC Fiber
+1. **TIC Fiber**
 	https://www.ticfiber.in/
 	Efficient customer care support and decent priced plans 
 	Office location -Couple houses down in the Street adjacent to Govt. Girls Hr.Sec School. 
-2. RAIL internet
+2. **RAIL internet**
 	Office location -Couple houses down in the Street adjacent to Govt. Girls Hr.Sec School. 
 	Easy portablity from and to existing BSNL landlines 
-3. BSNL Internet 
+3. **BSNL Internet**
 	Rumoured to be of not so great customer service. 
 
-###  Auto
+###  Transport 
 
 * Call a Cab
 * Call a Driver
 * Call an auto
+1. Sukumar
+2. Vijayakanth
+3. Arun 
+
+* Public Transport Bus Timings 
+1. **Towards Chennai and Kanchipuram**
+2. **Towards Vellore via Arcot**
+3. **Towards Arni**
+4. **Towards Vandavasi, Pondicherry**
+5. **Towards Chettupattu**
 
  
 
