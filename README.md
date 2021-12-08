@@ -40,7 +40,7 @@ Around Cheyyar, Home Internet is provided by
 	Rumoured to be of not so great customer service. 
 
 ## Transport 
-* Call a Taxi
+### **Call a Taxi**
 S.no | Name | Contact 
 -----|------|--------
 1 | Sukumar S | +91 950 056 6540
