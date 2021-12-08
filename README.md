@@ -1,14 +1,12 @@
 
-**Cheyyar Yellow Pages**
+# **Cheyyar Yellow Pages**
 
-## [About this Page](/About_this_Page.md)  
-## [Bus, Taxi, Auto, Drivers info](/Bus_Taxi_Auto.md)
+## [Bus, Taxi, Auto, Drivers From/To/Via Cheyyar ](/Bus_Taxi_Auto.md)
+## [Home Internet in Cheyyar ](/Home_Internet.md)
 
+###### [About this Page](/About_this_Page.md)  
 For More upto date info on Cheyyar local news  - [Twitter list of accounts tweeting about Cheyyar](https://twitter.com/i/lists/1468486874947751940)
 
-# Table of Contents 
-1. [Home_Internet](#Home_Internet)
-2. [Transport](#Transport)
 3. [Education](#Education)
 4. [Home_Maintennance](#Home_Maintennance)
 5. [Health](#Health)
@@ -16,17 +14,7 @@ For More upto date info on Cheyyar local news  - [Twitter list of accounts tweet
 7. [Food](#Food)
 8. [Government](#Government)
 
-## Home_Internet 
-Around Cheyyar, Home Internet is provided by 
-1. **TIC Fiber**
-	https://www.ticfiber.in/
-	Efficient customer care support and decent priced plans 
-	Office location -Couple houses down in the Street adjacent to Govt. Girls Hr.Sec School. 
-2. **RAIL internet**
-	Office location -Couple houses down in the Street adjacent to Govt. Girls Hr.Sec School. 
-	Easy portablity from and to existing BSNL landlines 
-3. **BSNL Internet**
-	Rumoured to be of not so great customer service. 
+
 
 ## Education 
 1. Typewriting Institutes 
