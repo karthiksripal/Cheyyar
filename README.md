@@ -53,6 +53,7 @@ Around Cheyyar, Home Internet is provided by
 3. **Towards Arni**
 4. **Towards Vandavasi, Pondicherry**
 5. **Towards Chettupattu**
+6. **Long Distance busses** 
 
 ## Education 
 1. Typewriting Institutes 
@@ -99,13 +100,16 @@ Women Hair Stylists
 Beauty Parlours 
 
 ## Food 
+Coffee and Tea
+* **Tea Time**
+	Opposite to SBI, Arcot Road. 
+	Sakthivel, Ahemed +91 952 403 0783, +91 979 141 2110
 Hotels
 Street foods 
-Breakfast Places
-Cheap food
-Lunch
+Briyani Places
 Evening snack
 Grills 
+
 
 ## Government 
 Government offices
@@ -145,8 +149,8 @@ Hotels/Lodges
 
 ## External Links
 
-* [Mirror1 Web site](https://cheyyar.com)
-* [Mirror2 Web site](https://cheyyaru.com)
+* [Cheyyaru News twitter ](https://twitter.com/CheyyaruNews)
+* [Cheyyaru Municipality Twitter](https://twitter.com/CheyyaruM)
 
 ## Content License
 
