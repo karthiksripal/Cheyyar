@@ -17,9 +17,6 @@ If you would like to be part of this project and want to be able to edit, update
 
 For More upto date informations on Cheyyar local news  - [Twitter list of accounts tweeting about Cheyyar](https://twitter.com/i/lists/1468486874947751940)
 
-* auto-gen TOC:
-{:toc}
-
 # Table of Contents 
 1. [Home_Internet](#Home_Internet)
 2. [Transport](#Transport)
@@ -44,9 +41,11 @@ Around Cheyyar, Home Internet is provided by
 
 ## Transport 
 * Call a Taxi
-1. Sukumar S - +91 950 056 6540
-2. Sridhar - +91 861 057 3201
-3. Velu - +91 979 009 6256
+S.no | Name | Contact 
+-----|------|--------
+1 | Sukumar S | +91 950 056 6540
+2 | Sridhar | +91 861 057 3201
+3 | Velu | +91 979 009 6256
 
 * Call a Driver
 1. Sukumar S - +91 950 056 6540
