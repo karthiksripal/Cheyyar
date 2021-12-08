@@ -21,7 +21,7 @@ For More upto date informations on Cheyyar local news  - [Twitter list of accoun
 {:toc}
 
 # Table of Contents 
-1. [Home Internet](#Home-Internet)
+1. [Home_Internet](#Home_Internet)
 2. [Transport](#Transport)
 3. [Education](#Education)
 4. [Home Maintennance](#Home-Maintennance)
@@ -30,7 +30,7 @@ For More upto date informations on Cheyyar local news  - [Twitter list of accoun
 7. [Food](#Food)
 8. [Government](#Government)
 
-## Internet 
+## Home_Internet 
 Around Cheyyar, Home Internet is provided by 
 1. **TIC Fiber**
 	https://www.ticfiber.in/
