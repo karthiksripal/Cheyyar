@@ -49,7 +49,9 @@ Around Cheyyar, Home Internet is provided by
 ###  Transport 
 
 * Call a Cab
+1.Sathish
 * Call a Driver
+1. Sukumar 
 * Call an auto
 1. Sukumar
 2. Vijayakanth
@@ -65,16 +67,20 @@ Around Cheyyar, Home Internet is provided by
  
 
 ### Education 
-Schools, Colleges, Tuitions, extra curricular classes, libraries - everything about learning goes here
+1. Typewriting Institutes 
+2. Tailoring Institutes 
+3. Driving Schools 
+4. Primary Schools
 
- 
+
 ###  Home 
 
 AC Repair        
-Appliance repair 
-Cleaning Services
-Electricians     
-Plumbers         
+TV and Electronic Appliances repair 
+Home Electricians
+Plumbers
+
+
 
 
 ###   Legal 
@@ -92,9 +98,11 @@ Income Tax
 
 
 ###   Healthcare 
-* General Doctor               	
-* Eye Doctor                   	
+1. General Doctor               	
+2. Eye Doctor  
+	* Senthil - Near othavadai Street - right across from the old Soundari Theatre 	
 * Pharmacy                     	
+	* Jeeva Pharmacy - Near the Murugan Textiles, across from 
 * Nurse or Pharmacy Compounder 	
 * Dentist                      	
 * Gynacelogist                 	
