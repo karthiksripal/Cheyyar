@@ -11,9 +11,11 @@ I aim to keep this page
 4. Not for profit 
 5. Promotion free 
 
-Less focus on the design and graphics and more focus on the content and keep it bare minimal is the idea.
+Less focus on the graphics & design and more focus on the content and keep it bare minimal is the idea.
 
-If you would like to be part of this project and want to be able to edit, update, delete  correct the contents of this page, or just want to send me the details to get it added here - Please know you are more than welcome to do so. would love to hear from you!
+If you would like to be part of this project and want to be able to edit, update, delete or correct the contents of this page, or just want to send me the details to get it added here - Please know you are more than welcome to do so. 
+
+Would love to hear from you!
 
 ##### **Content License and Privacy Policy**
 
