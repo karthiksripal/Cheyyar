@@ -1,19 +1,16 @@
 
-|    |    |    |
+|                                                                   |    |    |
 |-------------------------------------------------------------------|----|----|
 |[Bus, Taxi, Auto, Drivers From/To/Via Cheyyar ](/Bus_Taxi_Auto.md) | R2 | R3 |
-|[Bus, Taxi, Auto, Drivers From/To/Via Cheyyar ](/Bus_Taxi_Auto.md) | R2 | R3 |
-|[Bus, Taxi, Auto, Drivers From/To/Via Cheyyar ](/Bus_Taxi_Auto.md) | R2 | R3 |
-|[Bus, Taxi, Auto, Drivers From/To/Via Cheyyar ](/Bus_Taxi_Auto.md) | R2 | R3 |
-|[Bus, Taxi, Auto, Drivers From/To/Via Cheyyar ](/Bus_Taxi_Auto.md) | R2 | R3 |
+|[Home Internet in Cheyyar ](/Home_Internet.md) | R2 | R3 |
+|[Doctors, Pharmacies and health services](/Health.md) | R2 | R3 |
+|[Legal Services](/Legal.md) | R2 | R3 |
+|[Schools and Training Institutes](/Education.md) | R2 | R3 |
 
 
 
  
-## [Home Internet in Cheyyar ](/Home_Internet.md)
-## [Doctors, Pharmacies and health services](/Health.md)
-## [Legal Services](/Legal.md)
-## [Schools and Training Institutes](/Education.md)
+ 
 ## [Home Maintennance services](/Home_Maintennance.md)
 ## [Food and Eat out places](/Food.md)
 ## [Personal Care Services](/Personals.md)
