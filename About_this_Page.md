@@ -1,4 +1,3 @@
-## About_this_Page
 Hello,
 
 Thank you for stopping by and landing here in this webpage.
