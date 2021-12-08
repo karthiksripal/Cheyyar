@@ -24,9 +24,9 @@ For More upto date informations on Cheyyar local news  - [Twitter list of accoun
 1. [Home_Internet](#Home_Internet)
 2. [Transport](#Transport)
 3. [Education](#Education)
-4. [Home Maintennance](#Home-Maintennance)
+4. [Home_Maintennance](#Home_Maintennance)
 5. [Health](#Health)
-6. [Personal Care](#Personal-Care)
+6. [Personal_Care](#Personal_Care)
 7. [Food](#Food)
 8. [Government](#Government)
 
