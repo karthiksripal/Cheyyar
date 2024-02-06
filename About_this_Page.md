@@ -21,4 +21,5 @@ Would love to hear from you!
 
 The content here is licensed under the terms of the GPL Open Source license and is available for free.
 
-No Browsing trackers. Content is served only for the benefit if any of the content needs to be removed, modified or updated - The owner just may have to email and I will be sure to get to it as soon as possible. 
+No Browsing trackers. Content is served only for the benefit if any of the content needs to be removed, modified or updated - The owner just may have to email and I will be sure to get to it as soon as possible. Thank you! 
+
